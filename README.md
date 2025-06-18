@@ -319,7 +319,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Issues**: [GitHub Issues](https://github.com/Priyanshu84iya/tiktok-clone/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/Priyanshu84iya/tiktok-clone/discussions)
-- **Email**: your.email@example.com
+- **Email**: priyanshu@atharvtechnology.shop
 
 ---
 
